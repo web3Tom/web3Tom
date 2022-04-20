@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @web3Tom
-- 👀 I’m interested in web3 technologies and opportunities for work
-- 🌱 I’m currently learning javascript, React, NextJS and Solidity
-- 📫 Feel free to email me at web3hrive@protonmail.com for working opportunities!
+- 👀 I’m interested in front end development, digital designs and marketing, and web3 technologies and languages such as Solidity
+- 🌱 I’m currently learning javascript, advanced CSS methods, and framworks suchs as React and NextJS
+- 📫 Feel free to visit my portfolio site @ TjCurran.me or email me at web3hrive@protonmail.com for work opportunities!
