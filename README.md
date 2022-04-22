@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @web3Tom
 - 👀 I’m interested in front end development, digital designs, SEO, and web3 technologies
-- 🌱 I’m currently learning javascript, advanced CSS animations, framworks suchs as React and NextJS
+- 🌱 I’m currently improving my skills in Javascript, advanced CSS animations, and framworks including React and NextJS
 - 📫 Feel free to visit my portfolio site @ http://TjCurran.me or email me at web3hrive@protonmail.com for work opportunities!
