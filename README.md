@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @web3Tom
-- 👀 I’m interested in front end development, digital designs, SEO, and web3 technologies
-- 🌱 I’m currently improving my skills in Javascript, advanced CSS animations, and framworks including React and NextJS
-- 📫 Feel free to visit my portfolio site @ https://TjCurran.me or email me at thomas.james.curran@gmail.com for work opportunities!
+- 👀 I’m an Automations Developer at UBS within Emerging Technologies
+- 🌱 I'm focused on full-stack, design and marketing
